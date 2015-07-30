@@ -99,6 +99,21 @@ var projects = {
 "projects":[ 
 
 {
+
+"title" : "Portfolio site",
+"dates" : "Summer 2015",
+"description": "Developed a responsive website using Twitter's BootStrap framework that will display images, descriptions and links to each of the projects worked"
+
+},
+
+{
+	"title" : "Interactive Web Resume",
+	"dates" : "Summer 2015",
+	"description" : "Developed an interactive web resume that reads resume content from a JSON file and dynamically displays that content within a provided template."
+
+},
+
+{
 	"title" : "Neighborhood Map",
 	"dates" : "Summer 2015",
 	"description" : "Developed a single-page application featuring a map of neighborhood I would like to visit and added functionality including map markers to identify popular locations and implemented third-party API's that provide additional information about each of these locations(such as StreetView images, Wikepedia articles,Yelp reviews and groupons)."
