@@ -1,4 +1,6 @@
 
+Resume builder takes in a JSON Objects of data about the user and builds an interactive portfolio for you. I have integerated the google maps API which shows the areas studied and worked. Internationalization is also integerated with the project.
+
 
 Repository has  the following files:
 
